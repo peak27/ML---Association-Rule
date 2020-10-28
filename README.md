@@ -17,7 +17,7 @@ This repository contains the Association Rules such as Apriori and Eclat which c
   * R (For R implementation)
 
 ## Usage
-&nbsp;&nbsp;&nbsp;&nbsp;Association rule learning is important to build the recomender funtionality on you system such as e-commerce website or social media. One most common example of association rule is to identify that the people who bought diapers will also purchase beer.
+&nbsp;&nbsp;&nbsp;&nbsp;Association rule learning is important to build the recomender funtionality on your system such as e-commerce website or social media. One most common example of association rule is to identify that the people who bought diapers will also purchase beer. As the possibility, he might be babysitting and needs beer to spend his boring time at home.
 
 ## Credits 
 &nbsp;&nbsp;&nbsp;This was an individual project.
